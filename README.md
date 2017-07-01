@@ -1,6 +1,6 @@
 # React Starter Pack
 Starter pack for react projects. Uses Webpack and Babel
 
-# Run using - <br> 
+## To use <br> 
 npm install <br>
 npm start <br>
